@@ -16,7 +16,7 @@ color: var(--mainBlack) !important;
 }
 .text-title {
   font-family: 'Indie Flower', cursive;
-  letter-spacing: 0.3rem;
+  font-weight: bold;
   text-transform: uppercase;
 }
 .company-title {
