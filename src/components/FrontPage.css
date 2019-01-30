@@ -1,0 +1,25 @@
+/* Showcase */
+.showcase {
+    grid-area: showcase;
+    min-height: 400px;
+    background: url('../seashell-crafts.jpg') !important;
+    background-size: cover !important;
+    background-position: center;
+    padding: 3rem;
+    display: flex !important;
+    margin-bottom: auto !important;
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    justify-content: center !important;
+    box-shadow: var(--mainBlue) !important;
+}
+.showcase h1 {
+    font-size: 4rem !important;
+    color: var(--mainWhite)!important;
+    margin-bottom: 0 !important;
+}
+.showcase p {
+    font-size: 1.3rem !important;
+    color: var(--mainWhite) !important;
+    margin-top: 0 !important;
+}
