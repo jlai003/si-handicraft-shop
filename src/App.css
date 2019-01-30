@@ -15,7 +15,7 @@ background: var(--mainWhite) !important;
 color: var(--mainBlack) !important;
 }
 .text-title {
-  font-family: 'Pacifico', cursive;
+  font-family: 'Indie Flower', cursive;
   letter-spacing: 0.3rem;
   text-transform: uppercase;
 }
